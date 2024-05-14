@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme1" parent="Theme.Material3.Light.NoActionBar">
+        <!--Màu chính (ví dụ nền AppBar)-->
+        <item name="colorPrimary">@color/white</item>
+        <!--Màu nền thanh trạng thái điện thoại-->
+<!--        <item name="colorPrimaryDark">@color/black</item>-->
+        <!--Màu nền điều hướng điện thoại-->
+        <item name="android:navigationBarColor">@color/black</item>
+        <!--Màu nhấn mạnh (kiểm trong checkbox, gạch chân TextBox ...)-->
+        <!--        <item name="colorAccent">@color/colorAccent1</item>-->
+        <!--Màu nền Activity-->
+        <item name="android:windowBackground">@color/white</item>
+        <!--Màu chữ trong các control như Button ... -->
+        <item name="android:textColorPrimary">@color/teal_700</item>
+        <!--Màu chữ ở trạng thái ... -->
+        <!--        <item name="android:textColorSecondary">@color/textColorSecondary1</item>-->
+    </style>
+</resources>
